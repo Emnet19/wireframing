@@ -55,4 +55,30 @@ Wireframes consist of several core elements that define the layout and usability
 - **Example:** Buttons for “Book Now,” input fields for login forms, or filters for property search.  
 - **Contribution:** Shows how the system will support user tasks and provides a foundation for user interaction design.  
 
-Together, these elements ensure that wireframes not only outline the visual structure but also define how users will engage with the system effectively.  
+Together, these elements ensure that wireframes not only outline the visual structure but also define how users will engage with the system effectively.
+
+## Types of Wireframes  
+
+Wireframes can generally be divided into two types:  
+
+### 1. Low-Fidelity Wireframes  
+- **Definition:** Simple, rough sketches (often black and white) that focus on layout, structure, and basic content placement.  
+- **Usage:** Typically used in the early stages of design to quickly brainstorm and communicate ideas.  
+- **Characteristics:** Minimal detail, no styling, no actual content—just placeholders.  
+
+### 2. High-Fidelity Wireframes  
+- **Definition:** More detailed and polished versions that closely resemble the final design.  
+- **Usage:** Used later in the design process when refining user flows and preparing for development.  
+- **Characteristics:** Includes styling, colors, typography, images, and sometimes clickable interactions.  
+
+---
+
+## Identifying the Wireframe Type  
+
+The provided example is a **Low-Fidelity Wireframe**.  
+
+✅ Reason:  
+- It focuses on structure and layout without much styling or interactivity.  
+- Elements like buttons, content boxes, and navigation placeholders are represented simply, not fully designed.  
+- Its goal is to communicate functionality, not aesthetics.  
+
