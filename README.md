@@ -82,3 +82,53 @@ The provided example is a **Low-Fidelity Wireframe**.
 - Elements like buttons, content boxes, and navigation placeholders are represented simply, not fully designed.  
 - Its goal is to communicate functionality, not aesthetics.  
 
+# Wireframing
+
+## Introduction
+Wireframing is the process of creating a visual guide that represents the skeletal framework of a digital product. It serves as a blueprint for the layout, structure, and functionality of a design before the actual development begins. Wireframes help designers, developers, and stakeholders align on how the product will look and work.
+
+---
+
+## Key Elements of a Wireframe
+1. **Layout Structure**  
+   Defines the basic arrangement of elements on a page. Example: A grid layout ensures proper alignment and spacing.
+
+2. **Navigation**  
+   Shows how users move from one section to another. Example: Including a top navigation bar to access different pages.
+
+3. **Content Placement**  
+   Illustrates where text, images, and other content will be displayed. Example: Positioning a banner image at the top with call-to-action text.
+
+4. **Functionality**  
+   Indicates interactive components like buttons, forms, and input fields. Example: A "Search" bar on the homepage.
+
+---
+
+## Types of Wireframes
+- **Low-Fidelity Wireframes**  
+  Simple sketches or outlines focusing on structure and layout without much detail. Used in the early stages of the design process for brainstorming and quick idea validation.
+
+- **High-Fidelity Wireframes**  
+  More detailed and polished representations, often including actual text, colors, and closer resemblance to the final product. Used later in the design process to refine ideas and share with stakeholders.
+
+---
+
+## Popular Wireframing Tools
+Wireframing tools help designers quickly build and iterate on wireframes. Some popular tools include:
+- Balsamiq
+- Sketch
+- Adobe XD
+- **Figma**
+
+### Why Figma?  
+Figma is one of the most popular wireframing and UI/UX design tools because:
+- It’s **cloud-based**, allowing real-time collaboration with team members.  
+- Supports both **low-fidelity and high-fidelity wireframes**.  
+- Provides a wide range of **components, templates, and plugins** to speed up the design process.  
+- Works on any operating system (Windows, macOS, Linux, and even in the browser).  
+- Makes **handoff to developers easy** with features like CSS code snippets and inspect mode.  
+
+Figma is highly recommended for both beginners and professionals due to its flexibility, accessibility, and collaborative features.
+
+---
+
